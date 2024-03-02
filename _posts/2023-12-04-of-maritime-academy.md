@@ -11,8 +11,6 @@ sitemap: true
 ---
 
 
-Title: Building a Maritime Academy: A Journey of Growth and Development
-
 Introduction:
 
 From September 2009 to July 2012, I had the opportunity to be part of a dedicated team that embarked on an exciting mission to establish a new maritime academy in Malaysia. The objective of the new venture was to train and promote seaman as a good career prospect for Malaysians. 
