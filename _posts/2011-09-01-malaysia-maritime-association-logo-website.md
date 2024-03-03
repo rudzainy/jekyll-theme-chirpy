@@ -5,7 +5,7 @@ date: 2011-09-01 10:08 +0800
 description:
 image: https://blog.rudzainy.my/blog/wp-content/uploads/2019/05/pemm-web-1.jpg
 category: Work
-tags: [joomla, web design, logo]
+tags: [joomla, web design, logo, ai]
 published: true
 sitemap: true
 ---
@@ -18,12 +18,12 @@ sitemap: true
 
 ![Logo of Malaysian Maritime Association](https://blog.rudzainy.my/blog/wp-content/uploads/2019/05/MMA-logo.png)
 
-The logo embodies different symbols related to seafearing. 
+The logo encapsulates various maritime symbols, underscoring its seafaring essence.
 
-Ropes are essential on every water vessel. Knowing the correct knots when tying ropes is crucial for safety. The infinite circle rope symbolises association members embodying the rope to keep the association strong and secure. 
+Ropes, fundamental on any vessel, demand precise knotting for safety. The endless loop of the rope signifies members intertwining to fortify and safeguard the association.
 
-The life bouy with Persatuan Maritim Malaysia name on it symbolises the association as a reliable tool and a safe space for members. 
+The lifebuoy bearing the Persatuan Maritim Malaysia name signifies the association as a trusted resource and sanctuary for its members.
 
-The north star sits in the middle of the logo to emphasize the importance of the association's mission as a guide for members in case anyone lost their way. 
+At the heart of the logo, the North Star serves as a poignant reminder of the association's mission—a guiding light for members navigating uncertain waters.
 
 ![Website of Malaysian Maritime Association](https://blog.rudzainy.my/blog/wp-content/uploads/2019/05/pemm-web-1.jpg)
