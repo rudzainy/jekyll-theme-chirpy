@@ -5,9 +5,9 @@ title: The Door
 <div id="box">
 	<p>What is a four-letter word that has only one vowel in it.</p>
   <form action="/cat/mao" onSubmit="event.preventDefault(); hackering()">
-    <label for="answer">Answer</label>
+    <label for="answer">💬</label>
     <input type="password" name="answer" id="answer" />
-    <button type="submit">Submit answer</button>
+    <button type="submit">Submit</button>
   </form>
 </div>
 <script>
