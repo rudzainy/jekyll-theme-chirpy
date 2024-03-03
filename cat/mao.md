@@ -11,7 +11,7 @@ title: The Door
   </form>
 </div>
 <script>
-  const ansArray = ["true","correct","ya","betul","yes","yup","yups","tepat","right","y","t","1"];
+  const ansArray = ["true","correct","ya","betul","yes","yup","yups","tepat","right","y","t","1","accurate","benar","sungguh","em"];
   let hackering = () => {
     jawaban = document.getElementById("answer").value;
     console.log(jawaban);
