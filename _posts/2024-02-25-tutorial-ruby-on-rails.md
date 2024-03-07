@@ -9,3 +9,7 @@ tags: [ruby, rails, tutorial]
 published: false
 sitemap: false
 ---
+
+## 1. Generate command for `rails new`
+
+https://dailydevtools.com/rails_command_generator?v2
