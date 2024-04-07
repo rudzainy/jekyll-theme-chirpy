@@ -3,7 +3,7 @@ layout: post
 title: UI/UX Design for Agriculture
 date: 2024-04-07 10:13 +0800
 description: My learings from working in agriculture indusrty. 
-image: https://res.cloudinary.com/rudzainy/image/upload/v1687145994/User-Show-Votes_kfjcf1.png
+image: /assets/img/posts/p2p-syncing.png
 category: Work
 tags: [ui, ux, learning]
 published: true
@@ -38,7 +38,7 @@ The project encompasses involvement from various stakeholders across multiple su
 
 But here's where things got really interesting: dealing with almost no network connection in rural areas. Imagine trying to sync important data when there's barely any signal! To solve this, I proposed  a user flow for peer-to-peer syncing. This way, farmers could share information directly between their phones, even without an internet connection. 
 
-![Peer-to-peer syncing](/assets/img/posts/p2p-sync.png)
+![Peer-to-peer syncing](/assets/img/posts/p2p-syncing.png)
 
 ## ETC.
 
