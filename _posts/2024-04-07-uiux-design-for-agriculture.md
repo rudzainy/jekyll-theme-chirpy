@@ -18,6 +18,10 @@ During the early requirement gathering stage, one issue kept popping up: user's 
 
 One solution that I proposed was implementing light and dark mode. Essentially, it allows users to switch between different display modes based on the lighting conditions. Whether it's bright daylight or the dim of twilight, farmers can adjust the app to make it easier to see and use. 
 
+> Some of the most important things are going to be **high contrast, large text and dark on light design**.
+>
+>  – *[Ben Brocka](https://ux.stackexchange.com/users/7627/ben-brocka) ([Stack Exchange](https://ux.stackexchange.com/questions/15887/how-does-use-in-bright-sunlight-affect-how-a-web-site-should-be-designed)), 2012*
+
 Another proposed solution was to use a mobile phone sun visor. This idea involves attaching a small, foldable sun visor to the phone, providing instant shade and reducing glare on the screen when working outdoors. Despite its simplicity, this solution has the potential to greatly enhance the lives of agricultural workers by offering a practical and cost-effective solution.
 
 ![Mobile phone sun visor](/assets/img/posts/phone-visor.jpg)
@@ -32,13 +36,18 @@ After addressing the screen brightness issue, our next big challenge was consoli
 
 Our primary goal was to ensure that navigating the app felt like a breeze, even for those less familiar with technology. By carefully organizing and simplifying the user interface, we aimed to make complex tasks feel as effortless as slicing into a delicious pie, ensuring that every user could access the functionalities they needed with ease and confidence.
 
+![20230504 - Quick sketches of idea to organize forms. On the left is using horizontal tabs menu. On the right is a fallback of using dropdown navigation.](/assets/img/posts/organize-forms-a-b.png)
+
+
+![20230504 - Another idea is to use filters to prioritize certain forms (a.k.a. favourites, bookmark, featured etc.)](/assets/img/posts/organize-forms-c.png)
+
 The project encompasses involvement from various stakeholders across multiple subdivisions of the business, including but not limited to operations, research and development (R&D), marketing, and business transformation.
 
 ## And Sync
 
 But here's where things got really interesting: dealing with almost no network connection in rural areas. Imagine trying to sync important data when there's barely any signal! To solve this, I proposed  a user flow for peer-to-peer syncing. This way, farmers could share information directly between their phones, even without an internet connection. 
 
-![Peer-to-peer syncing](/assets/img/posts/p2p-syncing.png)
+![20230817 - Peer-to-peer syncing](/assets/img/posts/p2p-syncing.png)
 
 ## ETC.
 
@@ -50,5 +59,9 @@ And let's not forget about making the app even easier to use with intuitive gest
 
 
 ## Famous Last Words
+
+> Have **real users test the site** on a sunny day in direct sun; they'll be able to tell you if your site is reasonably readable. Try a couple different models of phone as well if possible. You or your design team will know what they're looking for on the site and be able to parse things a new user might not. A fresh look is important.
+>
+>  – *[Ben Brocka](https://ux.stackexchange.com/users/7627/ben-brocka) ([Stack Exchange](https://ux.stackexchange.com/questions/15887/how-does-use-in-bright-sunlight-affect-how-a-web-site-should-be-designed)), 2012*
 
 At the time when I left, some solutions presented has not been tested on the field. All in all, it's been a wild ride, full of challenges and triumphs, but one thing's for sure: the future of farming is looking brighter than ever, thanks to the power of digital innovation!
