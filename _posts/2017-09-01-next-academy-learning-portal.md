@@ -5,7 +5,7 @@ date: 2017-09-01 11:22 +0800
 description: Student learning portal for Next Academy
 image: https://blog.rudzainy.my/blog/wp-content/uploads/2019/05/na-lp-wireframe_draft.png
 category: Work
-tags: [uiux, rails, reactjs]
+tags: [ui, ux, rails, reactjs]
 published: true
 sitemap: true
 ---

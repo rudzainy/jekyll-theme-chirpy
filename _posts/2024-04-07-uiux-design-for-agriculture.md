@@ -34,6 +34,8 @@ Another proposed solution was to use a mobile phone sun visor. This idea involve
 
 After addressing the screen brightness issue, our next big challenge was consolidating nearly 20 diverse forms and workflows into a single app interface. It was like solving a massive puzzle! But through meticulous planning and out-of-the-box thinking, we cracked the code and devised a streamlined information architecture that catered to the needs of all users.
 
+![video](/assets/img/posts/prioritised-form-s.gif)
+
 Our primary goal was to ensure that navigating the app felt like a breeze, even for those less familiar with technology. By carefully organizing and simplifying the user interface, we aimed to make complex tasks feel as effortless as slicing into a delicious pie, ensuring that every user could access the functionalities they needed with ease and confidence.
 
 ![20230504 - Quick sketches of idea to organize forms. On the left is using horizontal tabs menu. On the right is a fallback of using dropdown navigation.](/assets/img/posts/organize-forms-a-b.png)
