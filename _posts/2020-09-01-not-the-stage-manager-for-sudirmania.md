@@ -62,17 +62,26 @@ Responsible for ensuring that all elements of the production come together seaml
 
 ![Gallery View](/assets/img/posts/sudirmania-gallery.png)
 
-![Gallery View](/assets/img/posts/sudirmania-table.png)
+![Table View](/assets/img/posts/sudirmania-table.png)
 
-![Gallery View](/assets/img/posts/sudirmania-gang.png)
+![View by Gang](/assets/img/posts/sudirmania-gang.png)
 
 ### Colour Coding
 
-![Gallery View](/assets/img/posts/sudirmania-scene.png)
+![Scenes selection](/assets/img/posts/sudirmania-scene.png)
 
-![Gallery View](/assets/img/posts/sudirmania-songs.png)
+![Songs selection](/assets/img/posts/sudirmania-songs.png)
 
 ### Scheduling
+
+![Scene checklist](/assets/img/posts/sudirmania-practice-checklist.png)
+
+![Scene checklist](/assets/img/posts/sudirmania-feb.png)
+
+![Scene checklist](/assets/img/posts/sudirmania-mar.png)
+
+![Scene checklist](/assets/img/posts/sudirmania-apr.png)
+
 
 ### Recordings
 
