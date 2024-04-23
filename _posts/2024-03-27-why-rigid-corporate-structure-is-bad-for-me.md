@@ -10,6 +10,9 @@ published: false
 sitemap: false
 ---
 
+I know what you might be thinking. Hear me out. 
+
+
 > <b>"I'm so done with enterprise!"</b>
 > <br /><em>– Mufhim, 2024</em>
 

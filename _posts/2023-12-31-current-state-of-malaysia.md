@@ -10,7 +10,7 @@ published: true
 sitemap: true
 ---
 
-```
+``` ruby
 # state_of_malaysia.rb
 # A simple Ruby program to illustrate current state of Malaysia
 
