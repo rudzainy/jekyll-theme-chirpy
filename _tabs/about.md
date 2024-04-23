@@ -21,5 +21,12 @@ Well, language is definately *NOT* my forté...
 
 I like computers though. So typing on the keyboard has long become a path for me to start writing. Coding helps as well. I started going public in the early social media days on platforms such as Friendster, DeviantArt, [my first blog](https://rudzainy.blogspot.com) and eventually ended up with *you* reading this here right now 🫰.
 
+
+
+- For the longest time, I have been using Wordpress to run my website. 
+- Wordpress was built as a blogging software. 
+- Frontend customisation becomes a chore. 
+- 
+
 <script type='text/javascript' src='https://storage.ko-fi.com/cdn/widget/Widget_2.js'></script><script type='text/javascript'>kofiwidget2.init('Support Me on Ko-fi', '#29abe0', 'H2H65CY0P');kofiwidget2.draw();</script> 
  
