@@ -10,25 +10,33 @@ published: false
 sitemap: false
 ---
 
-## The Problem
+## The Background
 
+- i was part of a team for a new project. 
+- objective was to improve quality of end product by optimizing quality control flow.
+- use ai to speed up checking ripeness of fresh fruit bunch.
+- 
+
+## The Problem
 
 ![Slide to select](/assets/img/posts/tap-to-select.png)
 
 - objects moving too fast
 - too may taps
-- can exclude tapping send?
-  - can but how if accidental tap?
+- question: can exclude tapping send?
+  - just tap on an option to select + confirm
+  - but how to prevent accidental tap?
 - 
 
 
-## Sliding instead of tapping
+## Tinder Swipe!
 
 ![Slide to select](/assets/img/posts/slide-to-select.gif)
 
 - can remove send button
 - slider control to allow unselect
 
-## what happened?
+## Outcome
 
 - too much cost to build for a proof of concept
+- maintain the send button
